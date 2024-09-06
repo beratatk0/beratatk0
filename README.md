@@ -1,4 +1,4 @@
-<h3 align="left">A passionate fullstack developer</h3>
+<h3 align="left">A Passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratatk0&label=Profile%20views&color=0e75b6&style=flat" alt="beratatk0" /> </p>
 
