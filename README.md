@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratatk0&label=Profile%20views&color=0e75b6&style=flat" alt="beratatk0" /> </p>
 
-- I’m currently learning **.Net Core**
-
 - Reach Me: **berat.atak.0@gmail.com**
 
 - Know about my experiences [www.kariyer.net/ozgecmis/beratatak](www.kariyer.net/ozgecmis/beratatak)
