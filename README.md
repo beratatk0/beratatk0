@@ -4,7 +4,7 @@
 
 - Reach Me: **berat.atak.0@gmail.com**
 
-- Know about my experiences [www.kariyer.net/ozgecmis/beratatak](www.kariyer.net/ozgecmis/beratatak)
+- Know about my experiences <a href="www.kariyer.net/ozgecmis/beratatak"> kariyer.net </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
