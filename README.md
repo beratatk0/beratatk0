@@ -50,6 +50,13 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  ### 🐍 My Contributions
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beratatk0/beratatk0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beratatk0/beratatk0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beratatk0/beratatk0/output/github-contribution-grid-snake.svg">
+  </picture>
   <br/><br/>
   <a>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=beratatk0&label=Profile%20views&color=0e75b6&style=flat" alt="beratatk0" /> </p>
