@@ -50,8 +50,8 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-  ### 🐍 My Contributions
   
+  <h3>🐍 My Contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beratatk0/beratatk0/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beratatk0/beratatk0/output/github-contribution-grid-snake.svg">
