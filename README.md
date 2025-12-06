@@ -29,8 +29,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Full Stack Development Projects**
-- 🌱 I’m currently learning **Advanced Cloud Architecture & AI Integration**
-- 👯 I’m looking to collaborate on **Open Source .NET & React Projects**
+- 👯 I would like to collaborate on **.NET Projects**
 - ⚡ Fun fact: **I love turning coffee into code! ☕**
 
 <br/>
